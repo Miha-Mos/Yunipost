@@ -74,6 +74,9 @@ body {
   font-size: 14px;
   line-height: 140%;
 }
+.breadcrumbs li a{
+  color: #515A63;
+}
 .breadcrumbs li:last-child {
   color: #AFB2B5;
 }
