@@ -67,7 +67,7 @@ ul, li {
 .breadcrumbs {
   padding: 24px 0px;
 }
-.breadcrumbs li {
+.breadcrumbs li a{
   color: #515A63;
   font-size: 14px;
   line-height: 140%;
